@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://siunam321.github.io/sitemap.xml
+Sitemap: https://digitalvigilantesofficial.github.io/BAT404.github.io/
