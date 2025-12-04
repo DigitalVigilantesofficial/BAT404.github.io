@@ -27,8 +27,8 @@ I'm Goswamin Uttam ,  a 22-year-old guy from india who has a lot of passion and 
 
 ## Contact Me
 
-- Email: [siunam321atcybersec@gmail.com](mailto:digitalvigilantesofficial@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/tangcheukhei/](linkedin.com/in/uttamgiri-goswami-5ba200218)
+- Email: [digitalvigilantesofficial@gmail.commailto:digitalvigilantesofficial@gmail.com)
+- LinkedIn: [linkedin.com/in/uttamgiri-goswami-5ba200218](linkedin.com/in/uttamgiri-goswami-5ba200218)
 - Discord: siunam321
 - [Twitter]( )
 - [Instragram]( )
